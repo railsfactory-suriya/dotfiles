@@ -1,13 +1,13 @@
 [user]
-	name = david amick
-	email = github@davidamick.com
+	name = suriya
+	email = suriya@railsfactory.org
 
 [github]
-  user = snarlysodboxer
+  user = railsfactory-suriya
 
 [core]
   whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
-  editor=/usr/bin/vim
+  editor=/usr/local/bin/vim
 	excludesfile = ~/.gitignore_global
 
 [color]
